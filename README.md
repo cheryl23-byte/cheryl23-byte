@@ -1,5 +1,5 @@
 # Hi, I'm Cheryl 👋
-
+Administrative and Website Content Support Professional with experience in healthcare-related content management, product catalog organization, documentation, and SEO-focused website updates.
 ## About Me
 
 I am a detail-oriented professional with experience in:
