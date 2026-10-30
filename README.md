@@ -1,5 +1,7 @@
 # Hi, I'm Cheryl 👋
-Administrative and Website Content Support Professional with experience in healthcare-related content management, product catalog organization, documentation, and SEO-focused website updates.
+
+Administrative and Website Content Support Professional with experience in healthcare-related content management, product catalog organization, documentation, business communications, and SEO-focused website updates.
+
 ## About Me
 
 I am a detail-oriented professional with experience in:
@@ -8,8 +10,10 @@ I am a detail-oriented professional with experience in:
 - Product Catalog Organization
 - Administrative Support
 - Documentation and Data Management
+- Customer Service
+- Healthcare Support Operations
 
-I have worked with healthcare-related content, website updates, product listings, and digital content management while continually developing my technical skills.
+I have worked with healthcare-related content, website updates, product listings, process documentation, and digital content management while continuously expanding my technical skills.
 
 ## Skills
 
@@ -19,20 +23,67 @@ I have worked with healthcare-related content, website updates, product listings
 - Data Entry & Documentation
 - Microsoft Office
 - Customer Service
-- CSV File Management
+- Process Documentation
+- Digital Content Management
 - Git & GitHub Basics
+
+## Tools & Platforms
+
+### Website & Content Management
+- Hostinger
+- Notion
+- Canva
+
+### Communication Systems
+- Vonage Business Communications
+- IVR & Call Flow Management
+
+### Cloud & Virtual Workspace
+- Amazon WorkSpaces
+- AWS (Amazon Web Services)
+- GitHub
+- Git
+
+### Business Applications
+- EzyLynx
+- Microsoft Word
+- Microsoft Excel
+- Microsoft Forms
 
 ## Professional Experience
 
 ### ProMed Hospital Services
 
-Contributed to website content management, product catalog organization, and healthcare product information.
+Contributed to website content management, product catalog organization, healthcare product information, and operational support.
 
-**Responsibilities:**
+**Responsibilities**
+
 - Product listing management
 - Website content updates
-- Documentation
+- Documentation and record management
 - SEO-friendly content creation
+- Form creation and maintenance
+- Product catalog organization
+- Process improvement support
+
+## Portfolio Projects
+
+### ProMed Website Management
+- Website content updates
+- Product catalog maintenance
+- Healthcare product descriptions
+- SEO content optimization
+
+### Administrative Documentation
+- Forms and templates
+- Business documentation
+- Data organization and management
+
+### Digital Content Management
+- Product descriptions
+- Website copywriting
+- Content organization
+- Process documentation
 
 ## Currently Learning
 
@@ -40,17 +91,4 @@ Contributed to website content management, product catalog organization, and hea
 - Website Development
 - SEO Optimization
 - Digital Content Management
-
-## Career Interests
-
-- Virtual Assistant
-- Administrative Support
-- Website Content Specialist
-- Data Entry Specialist
-- Healthcare Administration Support
-
-## Contact
-
-📧 felicianocheryl23@gmail.com
-
-🔗 https://github.com/cheryl23-byte
+- Version Control with 
