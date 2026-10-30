@@ -1,8 +1,12 @@
 Hi, I'm Cheryl 👋
 About Me
-I am a detail-oriented professional with experience in website content management, product catalog organization, administrative support, and documentation.
+I am a detail-oriented professional with experience in:
 
-I have worked with healthcare-related content, website updates, product listings, and data management while continuously developing my technical skills.
+Website content management
+Product catalog organization
+Administrative support
+Documentation and data management
+I have worked with healthcare-related content, website updates, product listings, and digital content management while continuously developing my technical skills.
 
 Skills
 Website Content Management
@@ -13,14 +17,14 @@ Microsoft Office
 Customer Service
 CSV File Management
 Git & GitHub Basics
-Projects
+Professional Experience
 ProMed Hospital Services
 Contributed to website content management, product catalog organization, and healthcare product information.
 
 Responsibilities
 
 Product listing management
-Content updates
+Website content updates
 Documentation
 SEO-friendly content creation
 Currently Learning
@@ -37,4 +41,4 @@ Healthcare Administration Support
 Contact
 📧 felicianocheryl23@gmail.com
 
-🔗 GitHub: github.com/cheryl23-byte
+🔗 GitHub: https://github.com/cheryl23-byte
