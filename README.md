@@ -91,4 +91,24 @@ Contributed to website content management, product catalog organization, healthc
 - Website Development
 - SEO Optimization
 - Digital Content Management
-- Version Control with 
+- Version Control with Git
+
+## Career Interests
+
+- Virtual Assistant
+- Administrative Support Specialist
+- Website Content Specialist
+- Data Entry Specialist
+- Healthcare Administration Support
+- Operations Coordinator
+- Customer Success Support
+
+## Connect With Me
+
+📧 **Email:** felicianocheryl23@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/cherylfeliciano123
+
+🔗 **GitHub:** https://github.com/cheryl23-byte
+
+📍 **Location:** Cabanatuan City, Philippines
