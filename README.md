@@ -40,7 +40,9 @@ I have worked with healthcare-related content, website updates, product listings
 
 ### Cloud & Virtual Workspace
 - Amazon WorkSpaces
-- AWS (Amazon Web Services)
+- EzyLynx
+- Jotform
+- Notion
 - GitHub
 - Git
 
@@ -88,6 +90,8 @@ Contributed to website content management, product catalog organization, healthc
 ## Currently Learning
 
 - GitHub
+- JotForm
+- Jible
 - Website Development
 - SEO Optimization
 - Digital Content Management
